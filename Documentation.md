@@ -37,9 +37,9 @@ and assigning them to a variable.
 ## License
 Mission Name Marauder is privately licensed by Franklin Media Australia Pty Ltd for non-commercial use only. You may use the software for personal 
 or internal business purposes, but you may not distribute, sell, or use it for any commercial purpose without the express written permission of 
-Franklin Media Australia Pty Ltd. By using Mission name Marauder, you agree to be bound by the terms of the Franklin Media Australia Pty Ltd - 
+Franklin Media Australia Pty Ltd. By using Mission Name Marauder, you agree to be bound by the terms of the Franklin Media Australia Pty Ltd - 
 Private Use Copyright License. 
 
 Please note that this software is provided "as is" without warranty of any kind, express or implied. Franklin Media Australia Pty Ltd shall not be 
-liable for any damages arising from the use of this software. If you have any questions or concerns about the license for New Swizard, please comment 
+liable for any damages arising from the use of this software. If you have any questions or concerns about the license for Mission Name Marauder, please comment 
 to the Franklin Media Australia programmers through their GitHub Repository.
